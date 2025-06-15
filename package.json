@@ -9,15 +9,17 @@
     "dev": "npm run dev --prefix backend"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/prince-dansco/mern-thinkNote.git"
+    // "type": "git",
+    // "url": "git+https://github.com/prince-dansco/mern-thinkNote.git"
+      "type": "git",
+    "url": "git+https://github.com/prince-dansco/mern-think-board.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/prince-dansco/mern-thinkNote/issues"
+    "url": "https://github.com/prince-dansco/mern-think-board/issues",
   },
-  "homepage": "https://github.com/prince-dansco/mern-thinkNote#readme"
+  "homepage": "https://github.com/prince-dansco/mern-think-board#readme"
 }
